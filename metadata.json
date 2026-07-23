@@ -1,0 +1,12 @@
+{
+  "name": "Trillion - Desktop AI Agent & Studio",
+  "description": "Voice-first AI assistant with open-mic wake-word detection, full Gemini intelligence, multi-modal tools, and native desktop app packaging.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
